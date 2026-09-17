@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/government-tenders",
   "description": "Search government tenders and public procurement opportunities with structured results.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/DataLeadsPRO/government-tenders",
     "source": "github"
