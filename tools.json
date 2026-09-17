@@ -1,0 +1,8 @@
+[
+  {
+    "name": "tenders_search",
+    "method": "POST",
+    "path": "/tenders/search",
+    "description": "V1 Tenders Search"
+  }
+]
